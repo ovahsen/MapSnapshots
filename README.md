@@ -1,8 +1,6 @@
 # MapSnapshots
 A python based demo to fetch map snapshots using the TomTom Maps APIs.
 
-Check out our developer portal and register your account to get an API key and get started: https://bit.ly/38nbvLX
-
 This code was made into an article! Read it here:https://developer.tomtom.com/blog/build-different/taking-raster-map-snapshots-python
 
 # Introduction
